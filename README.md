@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+My name is Kevin Muncie and I have been involved in Web Development for many years. My latest focus has been on utilizing modern symantic HTML to create accessible experiences. I love spinning up static websites using serverless infrastructure on AWS. I also work at making web content readable in as many languages as possible.
+
+Most of my public repositories here are just personal projects and experiments in various states. Take a look around and reach out if you have any questions!
+
+### 💬 Get in touch
+
+  - [twitter.com/kmuncie](https://twitter.com/kmuncie)
+  - [https://kmuncie.com](https://kmuncie.com)
+  - [https://muncie.dev](https://muncie.dev)
+  - [codepen.io/kmuncie](https://codepen.io/kmuncie)
+  - [https://muncipedia.com](https://muncipedia.com)
+
 <!--
 **kmuncie/kmuncie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
