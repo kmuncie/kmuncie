@@ -10,7 +10,6 @@ Most of my public repositories here are just personal projects and experiments i
   - [https://kmuncie.com](https://kmuncie.com)
   - [https://muncie.dev](https://muncie.dev)
   - [codepen.io/kmuncie](https://codepen.io/kmuncie)
-  - [https://muncipedia.com](https://muncipedia.com)
 
 <!--
 **kmuncie/kmuncie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
