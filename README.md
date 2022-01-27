@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Kevin Muncie and I have been involved in Web Development for many years. My latest focus has been on utilizing modern semantic HTML to create accessible experiences. I love spinning up static websites using serverless infrastructure on AWS. I also work at making web content readable in as many languages as possible.
+My latest focus has been on utilizing modern semantic HTML to create accessible experiences. I love spinning up static websites using serverless infrastructure on AWS. I also work at making web content readable in as many languages as possible.
 
 Most of my public repositories here are just personal projects and experiments in various states. Take a look around and reach out if you have any questions!
 
