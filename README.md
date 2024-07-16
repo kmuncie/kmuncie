@@ -7,7 +7,6 @@ Most of my public repositories here are just personal projects and experiments i
 ### 💬 Get in touch
 
   - [https://kmuncie.com](https://kmuncie.com)
-  - [https://muncie.dev](https://muncie.dev)
   - [codepen.io/kmuncie](https://codepen.io/kmuncie)
 
 <!--
