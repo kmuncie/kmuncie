@@ -4,6 +4,14 @@ My latest focus has been on utilizing modern semantic HTML to create accessible 
 
 Most of my public repositories here are just personal projects and experiments in various states. Take a look around and reach out if you have any questions!
 
+### 🌐 Team Times - My first mobile app
+
+Team Times Viewer lets you see which team members should be working right now, based on their configured schedules and time zones.
+
+Define each team member's name, time zone, and weekly working hours in a simple YAML file. The app compares those schedules against the current time to show who is on the clock and who is off. Load your config from a local file or fetch it from a remote URL.
+
+[See it on the App Store](https://apps.apple.com/app/apple-store/id6758563535?pt=125171659&ct=github&mt=8)
+
 ### 💬 Get in touch
 
   - [https://kmuncie.com](https://kmuncie.com)
